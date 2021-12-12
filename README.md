@@ -1,4 +1,4 @@
-# cdma-anti-jamming-system
+# CDMA Anti-Jamming System
 
 This repository is for my Communication Systems I project on a CDMA modulation.
 
